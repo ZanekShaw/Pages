@@ -10,20 +10,21 @@ The idea is more significant than just a factory space; it's about hosting peopl
 
 
 ## Rough Explanation
-My factory-space-idea is a physical space where good people with good intentions can get together, collaborate, and learn. 
-
-s
+My factory-space-idea is a physical space (like a factory) where good people with good intentions can get together, collaborate, and learn. 
 
 ## Space intentions
-The intentions of the space are to;
-- learn 
-- share 
-- grow 
-- work
-- take action towards a manifestation 
-- 
+The intention of the space is to host those who want to learn, grow, build, inspire, and share.
 
-## Space Objectives
+## Location 1
+This is the first location where this idea can get deployed. 
+A 2m(ish) square office in Berwick, small but big enough. 2 walls windows, and 2 walls solid. 
+
+IMG_4331.png - Marks where the office is. 
+
+Addy; [92-94 Enterprise Avenue, Berwick, VIC 3806](https://www.google.com.au/maps/place/92-94+Enterprise+Ave,+Berwick+VIC+3806/@-38.0359937,145.3367337,20.93z/data=!4m5!3m4!1s0x6ad61a21e4070b77:0xa1e72f2927a1336a!8m2!3d-38.03599!4d145.336822?hl=en&authuser=0)
+
+
+## IDEA PUKE 
  - Learning
  - Teaching to learn
  - Attracting the right minds
